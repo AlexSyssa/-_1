@@ -1,4 +1,4 @@
-puts "Добрый день, укажите Ваше имя?"
+puts "Добрый день, укажите Ваше имя"
 name = gets.chomp
 puts "#{name}, какой у Вас рост?"
 height = gets.chomp.to_i
